@@ -3,7 +3,7 @@
 ```js
 const me = {
   name: 'LeeChangRyeol',
-  age: 23,
+  age: 24,
 
   language: [
     "Java",
@@ -21,15 +21,7 @@ const me = {
 </div>
  
  
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KOR-CHANG)](https://github.com/anuraghazra/github-readme-stats)-->
- 
- ### Hoseo University Student
- 
-* I'm studying in Hoseo University 
-
-### Interesting
-
-* .
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fufckddl)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <div align=center>
