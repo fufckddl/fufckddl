@@ -18,7 +18,10 @@ const me = {
 
 </div>
 
-![JAVA](https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![React](https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/Python-#3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
  
  
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fufckddl)](https://github.com/anuraghazra/github-readme-stats)-->
