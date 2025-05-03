@@ -1,9 +1,9 @@
-<h1>Hi 👋 fufckddl 😋</h1>
+<h1>Hi 👋</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=radical)
  
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fufckddl)](https://github.com/anuraghazra/github-readme-stats)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&exclude_repo=ProgrammingPractice&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align=center>
 
