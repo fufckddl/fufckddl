@@ -60,28 +60,6 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
----
-
-## 📱 Recent Projects
-
-### **📌 Summariq — AI 기반 실시간 회의 요약 플랫폼**
-- Google STT / AssemblyAI / Whisper 기반 음성 처리  
-- 실시간 스트리밍 인식 + 자동 요약 + PDF/HTML 리포트 생성  
-- AWS EC2 + Redis + Celery 기반 아키텍처 구축  
-- 대학생·직장인 대상 실사용 서비스 개발 중  
-
-### **📌 매일잎(ilGo) — 감정 기반 일기 앱**
-- Flutter 기반 iOS/Android 앱  
-- 감정 분석 모델(HuggingFace Fine-tuning) 적용  
-- 이미지 업로드, 아이콘 시스템, 프리미엄 기능, IAP 결제 적용  
-- 감정 달력, 사용자별 감정 리포트 제공  
-
-### **📌 CAMSAW — 위치 기반 대학생 소셜 앱**
-- React Native + Firebase + AWS  
-- 실시간 지도 기반 게시글, 채팅, 알림 기능  
-- 대학생 대상 커뮤니티 앱 구축  
-
----
 
 ## 🧠 What I Focus On
 - 실사용 가능한 **엔드-투-엔드 AI 서비스 구축**
@@ -99,14 +77,14 @@
 
 ---
 
-## ⭐ Trophy (Optional)
+## ⭐ Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fufckddl&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Optional)
+## 📊 GitHub Stats
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default&hide_border=true"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default&hide_border=true"/>
