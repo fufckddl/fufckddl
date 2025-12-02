@@ -86,7 +86,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default&hide_border=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default&hide_border=true"/>
+  <img height="150px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fufckddl&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="150px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
