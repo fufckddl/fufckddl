@@ -101,14 +101,14 @@
 
 ## ⭐ Trophy (Optional)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=changryeol&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fufckddl&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats (Optional)
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=changryeol&show_icons=true&theme=default&hide_border=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changryeol&layout=compact&theme=default&hide_border=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default&hide_border=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default&hide_border=true"/>
 </p>
 
