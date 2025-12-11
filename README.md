@@ -91,3 +91,8 @@
   <img height="150px"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=transparent&hide_border=true" />
 </p>
+
+
+## 🎴 GitCard 프로필
+
+👉 [내 프로필 카드 보기](http://3.37.130.140/dashboard/fufckddl/cards/1)
