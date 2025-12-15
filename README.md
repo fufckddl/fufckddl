@@ -94,4 +94,4 @@
 
 
 ## 🎴 GitCard 프로필
-![GitCard](http://3.37.130.140:8000/api/profiles/public/fufckddl/cards/3/svg)
+![GitCard](http://3.37.130.140/api/profiles/public/fufckddl/cards/3/svg)
