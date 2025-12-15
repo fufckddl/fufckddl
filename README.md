@@ -95,3 +95,4 @@
 
 ## 🎴 GitCard 프로필
 
+[![GitCard](http://3.37.130.140/dashboard/fufckddl/cards/3)](http://3.37.130.140/dashboard/fufckddl/cards/3)
