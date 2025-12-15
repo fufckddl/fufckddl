@@ -95,4 +95,4 @@
 
 ## 🎴 GitCard 프로필
 
-👉 [내 프로필 카드 보기](http://3.37.130.140/dashboard/fufckddl/cards/1)
+![GitCard](http://3.37.130.140:8000/api/profiles/public/fufckddl/cards/3/svg)
