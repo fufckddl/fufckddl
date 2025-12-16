@@ -78,4 +78,4 @@
 ---
 
 ## 🎴 GitCard 프로필
-
+[![GitCard](http://3.37.130.140/api/profiles/public/fufckddl/cards/3/image?format=png)](http://3.37.130.140/dashboard/fufckddl/cards/3)
