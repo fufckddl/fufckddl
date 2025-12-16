@@ -77,20 +77,5 @@
 
 ---
 
-## ⭐ Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fufckddl&theme=flat&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="150px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fufckddl&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="150px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-
 ## 🎴 GitCard 프로필
+[![GitCard](http://3.37.130.140/api/profiles/public/fufckddl/cards/3/image?format=png)](http://3.37.130.140/dashboard/fufckddl/cards/3)
