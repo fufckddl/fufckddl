@@ -78,4 +78,49 @@
 ---
 
 ## 🎴 GitCard 프로필
-   ![GitCard](http://3.37.130.140/api/profiles/public/fufckddl/cards/3/image?format=png)
+<div align="center">
+  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/3/banner" alt="GitCard Banner" />
+</div>
+
+## 🛠️ Tech Stacks
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logoColor=white" alt="Shell" />
+
+</div>
+
+## 📬 Contact
+
+<div align="center">
+
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-example%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:https://velog.io/@username">
+    <img src="https://img.shields.io/badge/Velog-https://velog.io/%40username-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Velog" />
+  </a>
+
+</div>
+
+## 🏅 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default" alt="fufckddl stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=fufckddl&theme=default" alt="GitHub Streak" />
+
+</div>
+
+---
+<div align="center">
+  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/3">GitCard</a></p>
+</div>
