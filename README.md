@@ -79,7 +79,7 @@
 
 ## 🎴 GitCard 프로필
 <div align="center">
-  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/3/banner" alt="GitCard Banner" />
+  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/2/banner" alt="GitCard Banner" />
 </div>
 
 ## 🛠️ Tech Stacks
@@ -89,11 +89,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logoColor=white" alt="Shell" />
 
 </div>
 
@@ -122,5 +117,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/3">GitCard</a></p>
+  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/2">GitCard</a></p>
 </div>
