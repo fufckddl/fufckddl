@@ -79,7 +79,7 @@
 
 ## 🎴 GitCard 프로필
 <div align="center">
-  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/2/banner" alt="GitCard Banner" />
+  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/1/banner" alt="GitCard Banner" />
 </div>
 
 ## 🛠️ Tech Stacks
