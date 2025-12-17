@@ -144,5 +144,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/10">GitCard</a></p>
+  <p>Made with ❤️ using <a href="http://3.37.130.140">GitCard</a></p>
 </div>
