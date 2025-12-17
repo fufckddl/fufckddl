@@ -84,13 +84,36 @@
 
 ## 🛠️ Tech Stacks
 
+### 언어
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+
+</div>
+
+### 프론트엔드
+
 <div align="center">
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white" alt="TypeScript" />
+
+</div>
+
+### 백엔드
+
+<div align="center">
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+
+</div>
+
+### 도구
+
+<div align="center">
+
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logoColor=white" alt="Webpack" />
 
 </div>
