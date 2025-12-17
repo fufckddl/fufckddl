@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Velog-velog%2Eio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Velog" />
   </a>
   <a href="https://dd">
-    <img src="https://img.shields.io/badge/instargram-dd-667eea?style=for-the-badge" alt="instargram" />
+    <img src="https://img.shields.io/badge/instagram-dd-667eea?style=for-the-badge" alt="instagram" />
   </a>
 
 </div>
