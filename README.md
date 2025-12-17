@@ -89,6 +89,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logoColor=white" alt="Webpack" />
 
 </div>
 
@@ -117,5 +120,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/2">GitCard</a></p>
+  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/4">GitCard</a></p>
 </div>
