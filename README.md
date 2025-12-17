@@ -79,67 +79,25 @@
 
 ## 🎴 GitCard 프로필
 <div align="center">
-  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/5/banner" alt="GitCard Banner" />
+  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/10/banner" alt="GitCard Banner" />
 </div>
 
 ## 🛠️ Tech Stacks
 
-### 언어
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logoColor=white" alt="Rust" />
-
-</div>
-
 ### 프론트엔드
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logoColor=white" alt="Tailwind CSS" />
 
 </div>
 
 ### 백엔드
 
-<div align="center">
+<div align="left">
 
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white" alt="Node.js" />
-
-</div>
-
-### 데이터베이스
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white" alt="MySQL" />
-
-</div>
-
-### 인프라
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logoColor=white" alt="Docker" />
-
-</div>
-
-### 협업 도구
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logoColor=white" alt="Bitbucket" />
-
-</div>
-
-### 테스팅
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logoColor=white" alt="Jest" />
 
 </div>
 
@@ -147,8 +105,11 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dlckdfuf141%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:example@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-example%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="mailto:https://velog.io/@username">
+    <img src="https://img.shields.io/badge/Velog-https://velog.io/%40username-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Velog" />
   </a>
 
 </div>
@@ -164,5 +125,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/5">GitCard</a></p>
+  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/10">GitCard</a></p>
 </div>
