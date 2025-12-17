@@ -86,19 +86,18 @@
 
 ### 언어
 
-<div align="left">
+<div align="center">
 
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
 
 </div>
 
 ### 프론트엔드
 
-<div align="left">
+<div align="center">
 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
@@ -107,9 +106,17 @@
 
 ### 백엔드
 
-<div align="left">
+<div align="center">
 
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+
+</div>
+
+### AI/ML
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face" />
 
 </div>
 
