@@ -114,7 +114,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default" alt="fufckddl stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=fufckddl&theme=default" alt="GitHub Streak" />
 
 </div>
 
