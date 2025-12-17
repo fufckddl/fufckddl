@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/10/banner" alt="GitCard Banner" />
 </div>
@@ -51,6 +50,9 @@
   <a href="https://velog.io/@username">
     <img src="https://img.shields.io/badge/Velog-velog%2Eio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Velog" />
   </a>
+  <a href="https://dd">
+    <img src="https://img.shields.io/badge/instargram-dd-667eea?style=for-the-badge" alt="instargram" />
+  </a>
 
 </div>
 
@@ -65,5 +67,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140">GitCard</a></p>
+  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/10">GitCard</a></p>
 </div>
