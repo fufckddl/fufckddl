@@ -88,11 +88,11 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
 
 </div>
 
@@ -100,8 +100,8 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
 
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
 
 </div>
 
@@ -120,8 +120,8 @@
   <a href="mailto:example@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-example%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="mailto:https://velog.io/@username">
-    <img src="https://img.shields.io/badge/Velog-https://velog.io/%40username-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Velog" />
+  <a href="https://velog.io/@username">
+    <img src="https://img.shields.io/badge/Velog-velog%2Eio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Velog" />
   </a>
 
 </div>
