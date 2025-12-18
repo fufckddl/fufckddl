@@ -8,8 +8,8 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=black&style=for-the-badge" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
 
 </div>
@@ -18,7 +18,7 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" alt="jQuery" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" alt="Vite" />
@@ -29,7 +29,7 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" alt="iOS" />
 
@@ -41,8 +41,8 @@
 
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=black&style=for-the-badge" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" alt="Spring" />
 
 </div>
 
@@ -51,7 +51,7 @@
 <div align="left">
 
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-C49A41?logo=mariadb&logoColor=white&style=for-the-badge" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/MariaDB-C49A41?logo=mariadb&logoColor=black&style=for-the-badge" alt="MariaDB" />
 
 </div>
 
@@ -70,7 +70,7 @@
 <div align="left">
 
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="Notion" />
 
@@ -80,7 +80,7 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=white&style=for-the-badge" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face" />
 
 </div>
 
@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Gmail-dlckdfuf141%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/ryeolchang/">
-    <img src="https://img.shields.io/badge/Instagram-www%2Einstagram%2Ecom-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-www%2Einstagram%2Ecom-4285F4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
 </div>
