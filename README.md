@@ -4,7 +4,7 @@
 
 ## 🛠️ Tech Stacks
 
-### 언어
+### Language
 
 <div align="left">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-### 프론트엔드
+### Frontend
 
 <div align="left">
 
@@ -25,7 +25,7 @@
 
 </div>
 
-### 모바일
+### Mobile
 
 <div align="left">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-### 백엔드
+### Backend
 
 <div align="left">
 
@@ -46,7 +46,7 @@
 
 </div>
 
-### 데이터베이스
+### Database
 
 <div align="left">
 
@@ -55,7 +55,7 @@
 
 </div>
 
-### 인프라
+### Infra
 
 <div align="left">
 
@@ -65,7 +65,7 @@
 
 </div>
 
-### 협업 도구
+### Collaboration
 
 <div align="left">
 
@@ -76,7 +76,7 @@
 
 </div>
 
-### AI/ML
+### AI / ML
 
 <div align="left">
 
