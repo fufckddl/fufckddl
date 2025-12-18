@@ -97,6 +97,14 @@
 
 </div>
 
+## 🧩 Baekjoon Tier
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdfuf141)](https://solved.ac/dlckdfuf141/)
+
+</div>
+
 ## 🏅 GitHub Stats
 
 <div align="center">
