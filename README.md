@@ -88,11 +88,11 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dlckdfuf141%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:dlckdfuf141@gmail.com"  >
+    <img src="https://cdn.simpleicons.org/gmail/000000" alt="Gmail" width="32" height="32" style="margin: 0 8px; cursor: pointer; transition: transform 0.2s;" />
   </a>
-  <a href="https://www.instagram.com/ryeolchang/">
-    <img src="https://img.shields.io/badge/Instagram-www%2Einstagram%2Ecom-4285F4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/000000" alt="Instagram" width="32" height="32" style="margin: 0 8px; cursor: pointer; transition: transform 0.2s;" />
   </a>
 
 </div>
