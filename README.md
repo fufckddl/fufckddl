@@ -88,19 +88,23 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com" style="display: flex; flex-direction: column; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; transition: transform 0.2s, box-shadow 0.2s; margin: 8px; max-width: 300px;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0, 0, 0, 0.1)';">
-    <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-      <img src="https://cdn.simpleicons.org/gmail/000000" alt="GMAIL" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" />
-      <span style="font-size: 14px; font-weight: 600; color: #667eea; text-transform: uppercase; letter-spacing: 0.5px;">GMAIL</span>
+  <a href="mailto:dlckdfuf141@gmail.com" style="display: inline-block; padding: 16px 20px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; margin: 8px; vertical-align: top;">
+    <div style="display: flex; align-items: flex-start; gap: 12px;">
+      <div style="flex-shrink: 0;"><img src="https://cdn.simpleicons.org/gmail/000000" alt="GMAIL" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" /></div>
+      <div style="display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 13px; font-weight: 600; color: #2563eb; text-transform: uppercase; letter-spacing: 0.3px; text-decoration: underline;">GMAIL</span>
+        <span style="font-size: 14px; color: #2563eb; text-decoration: underline; word-break: break-word;">dlckdfuf141@gmail.com</span>
+      </div>
     </div>
-    <span style="font-size: 16px; color: #333; word-break: break-word;">dlckdfuf141@gmail.com</span>
   </a>
-  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" style="display: flex; flex-direction: column; padding: 20px; background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; transition: transform 0.2s, box-shadow 0.2s; margin: 8px; max-width: 300px;" onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0, 0, 0, 0.15)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 8px rgba(0, 0, 0, 0.1)';">
-    <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 8px;">
-      <img src="https://cdn.simpleicons.org/instagram/000000" alt="INSTAGRAM" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" />
-      <span style="font-size: 14px; font-weight: 600; color: #667eea; text-transform: uppercase; letter-spacing: 0.5px;">INSTAGRAM</span>
+  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 20px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; margin: 8px; vertical-align: top;">
+    <div style="display: flex; align-items: flex-start; gap: 12px;">
+      <div style="flex-shrink: 0;"><img src="https://cdn.simpleicons.org/instagram/000000" alt="INSTAGRAM" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" /></div>
+      <div style="display: flex; flex-direction: column; gap: 4px;">
+        <span style="font-size: 13px; font-weight: 600; color: #2563eb; text-transform: uppercase; letter-spacing: 0.3px; text-decoration: underline;">INSTAGRAM</span>
+        <span style="font-size: 14px; color: #2563eb; text-decoration: underline; word-break: break-word;">https://www.instagram.com/ryeolchang/</span>
+      </div>
     </div>
-    <span style="font-size: 16px; color: #333; word-break: break-word;">https://www.instagram.com/ryeolchang/</span>
   </a>
 
 </div>
