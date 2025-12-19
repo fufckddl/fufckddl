@@ -88,23 +88,11 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com" style="display: inline-block; padding: 16px 20px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; margin: 8px; vertical-align: top;">
-    <div style="display: flex; align-items: flex-start; gap: 12px;">
-      <div style="flex-shrink: 0;"><img src="https://cdn.simpleicons.org/gmail/000000" alt="GMAIL" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" /></div>
-      <div style="display: flex; flex-direction: column; gap: 4px;">
-        <span style="font-size: 13px; font-weight: 600; color: #2563eb; text-transform: uppercase; letter-spacing: 0.3px; text-decoration: underline;">GMAIL</span>
-        <span style="font-size: 14px; color: #2563eb; text-decoration: underline; word-break: break-word;">dlckdfuf141@gmail.com</span>
-      </div>
-    </div>
+  <a href="mailto:dlckdfuf141@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-dlckdfuf141%40gmail.com?logo=gmail&logoColor=white&style=flat" alt="GMAIL" />
   </a>
-  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 16px 20px; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); text-decoration: none; color: inherit; margin: 8px; vertical-align: top;">
-    <div style="display: flex; align-items: flex-start; gap: 12px;">
-      <div style="flex-shrink: 0;"><img src="https://cdn.simpleicons.org/instagram/000000" alt="INSTAGRAM" width="32" height="32" style="width: 32px; height: 32px; object-fit: contain;" /></div>
-      <div style="display: flex; flex-direction: column; gap: 4px;">
-        <span style="font-size: 13px; font-weight: 600; color: #2563eb; text-transform: uppercase; letter-spacing: 0.3px; text-decoration: underline;">INSTAGRAM</span>
-        <span style="font-size: 14px; color: #2563eb; text-decoration: underline; word-break: break-word;">https://www.instagram.com/ryeolchang/</span>
-      </div>
-    </div>
+  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/INSTAGRAM-https%3A%2F%2Fwww.instagram.com%2Fryeolchang%2F?logo=instagram&logoColor=white&style=flat" alt="INSTAGRAM" />
   </a>
 
 </div>
