@@ -94,7 +94,9 @@
   <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" title="https://www.instagram.com/ryeolchang/">
     <img src="https://img.shields.io/badge/INSTAGRAM-0077B5?logo=instagram&logoColor=white&style=flat" alt="INSTAGRAM: https://www.instagram.com/ryeolchang/" />
   </a>
-
+   <a href="https:/www.instagram.com" target="_blank" rel="noopener noreferrer" title="https:/www.instagram.com">
+    <img src="https://img.shields.io/badge/FACEBOOK-0077B5?logo=facebook&logoColor=white&style=flat" alt="FACEBOOK: https:/www.instagram.com" />
+  </a>
 </div>
 
 ## 🧩 Baekjoon Tier
