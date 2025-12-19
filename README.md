@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/banner" alt="GitCard Banner" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/banner" alt="GitCard Banner" />
 </div>
 
 ## 🛠️ Tech Stacks
