@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://3.37.130.140/api/profiles/public/fufckddl/cards/11/banner" alt="GitCard Banner" />
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/banner" alt="GitCard Banner" />
 </div>
 
 ## 🛠️ Tech Stacks
@@ -116,5 +116,5 @@
 
 ---
 <div align="center">
-  <p>Made with ❤️ using <a href="http://3.37.130.140/dashboard/fufckddl/cards/11">GitCard</a></p>
+  <p>Made with ❤️ using <a href="https://gitcard.kr/dashboard/fufckddl/cards/11">GitCard</a></p>
 </div>
