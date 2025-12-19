@@ -61,7 +61,7 @@
 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="Nginx" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com"   style="padding: 0 10px; display: inline-block; text-decoration: none;">
+  <a href="mailto:dlckdfuf141@gmail.com" style="padding: 0 10px; display: inline-block; text-decoration: none;">
     <img src="https://cdn.simpleicons.org/gmail/000000" alt="Gmail" width="32" height="32" style="cursor: pointer; transition: transform 0.2s; display: block;" />
   </a>
   <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" style="padding: 0 10px; display: inline-block; text-decoration: none;">
