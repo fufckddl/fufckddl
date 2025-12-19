@@ -61,10 +61,7 @@
 
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="Nginx" />
-  <span style="display: inline-flex; align-items: center; gap: 4px; vertical-align: middle;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/amazon.png" alt="AWS" style="width: 20px; height: 20px; vertical-align: middle;" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" style="vertical-align: middle;" />
-  </span>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
 
 </div>
 
@@ -91,11 +88,11 @@
 
 <div align="center">
 
-  <a href="mailto:dlckdfuf141@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-dlckdfuf141@gmail.com?logo=gmail&logoColor=white&style=flat" alt="GMAIL" />
+  <a href="mailto:dlckdfuf141@gmail.com" title="dlckdfuf141@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-0077B5?logo=gmail&logoColor=white&style=flat" alt="GMAIL: dlckdfuf141@gmail.com" />
   </a>
-  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/INSTAGRAM-https://www.instagram.com/ryeolchang/?logo=instagram&logoColor=white&style=flat" alt="INSTAGRAM" />
+  <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" title="https://www.instagram.com/ryeolchang/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-0077B5?logo=instagram&logoColor=white&style=flat" alt="INSTAGRAM: https://www.instagram.com/ryeolchang/" />
   </a>
 
 </div>
