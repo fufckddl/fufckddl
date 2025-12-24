@@ -149,9 +149,7 @@ AI 기반 사용자 회의 요약 및 분석 플랫폼
 ## 🏅 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default" alt="fufckddl stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default" alt="Top Languages" />
 
 </div>
