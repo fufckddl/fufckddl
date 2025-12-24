@@ -113,27 +113,27 @@
 <div align="left">
 
 <a href="https://github.com/fufckddl/GitCard" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/0/banner" alt="GitCard" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/0/banner" alt="GitCard" />
 </a>
 
 <a href="https://github.com/fufckddl/SummarIQ.ai-FE" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/1/banner" alt="SummarIQ.ai-FE" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/1/banner" alt="SummarIQ.ai-FE" />
 </a>
 
 <a href="https://github.com/fufckddl/HoseoLife" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/2/banner" alt="HoseoLife" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/2/banner" alt="HoseoLife" />
 </a>
 
 <a href="https://github.com/fufckddl/2025_AI_HACKATHON_BE" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/3/banner" alt="2025_AI_HACKATHON_BE" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/3/banner" alt="2025_AI_HACKATHON_BE" />
 </a>
 
 <a href="https://github.com/fufckddl/2025_AI_HACKATHON_FE" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/4/banner" alt="2025_AI_HACKATHON_FE" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/4/banner" alt="2025_AI_HACKATHON_FE" />
 </a>
 
 <a href="https://github.com/fufckddl/KoreanEmpathyModel" target="_blank" rel="noopener noreferrer">
-  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/5/banner" alt="KoreanEmpathyModel" />
+  <img src="https://gitcard.kr/api/profiles/public/fufckddl/cards/11/repositories/5/banner" alt="KoreanEmpathyModel" />
 </a>
 
 </div>
