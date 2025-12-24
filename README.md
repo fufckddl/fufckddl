@@ -144,10 +144,6 @@ AI 기반 사용자 회의 요약 및 분석 플랫폼
 
 [2025:Model(AI)] 한국어(텍스트) 기반 공감 모델
 
-### [hackathon-pitches](https://github.com/fufckddl/hackathon-pitches)
-
-[2024:AI 해커톤] 감정인식 AI스피킹 코칭
-
 </div>
 
 ## 🏅 GitHub Stats
