@@ -94,9 +94,10 @@
   <a href="https://www.instagram.com/ryeolchang/" target="_blank" rel="noopener noreferrer" title="https://www.instagram.com/ryeolchang/">
     <img src="https://img.shields.io/badge/INSTAGRAM-0077B5?logo=instagram&logoColor=white&style=flat" alt="INSTAGRAM: https://www.instagram.com/ryeolchang/" />
   </a>
-   <a href="https:/www.instagram.com" target="_blank" rel="noopener noreferrer" title="https:/www.instagram.com">
+  <a href="https:/www.instagram.com" target="_blank" rel="noopener noreferrer" title="https:/www.instagram.com">
     <img src="https://img.shields.io/badge/FACEBOOK-0077B5?logo=facebook&logoColor=white&style=flat" alt="FACEBOOK: https:/www.instagram.com" />
   </a>
+
 </div>
 
 ## 🧩 Baekjoon Tier
@@ -104,6 +105,48 @@
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdfuf141)](https://solved.ac/dlckdfuf141/)
+
+</div>
+
+## 📂 Repositories
+
+<div align="left">
+
+### [GitCard](https://github.com/fufckddl/GitCard)
+
+[2025:Project] 쉽게 만드는 GitHub README
+
+`Python`
+
+### [SummarIQ.ai-FE](https://github.com/fufckddl/SummarIQ.ai-FE)
+
+AI 기반 사용자 회의 요약 및 분석 플랫폼
+
+`Python`
+
+### [HoseoLife](https://github.com/fufckddl/HoseoLife)
+
+[2025:Project] 호서대학교 커뮤니티
+
+`TypeScript`
+
+### [2025_AI_HACKATHON_BE](https://github.com/fufckddl/2025_AI_HACKATHON_BE)
+
+[2025:AI 해커톤] AI 챗봇 기반 소아 ADHD 아동 일상·수면 관리 및 부모 지원 플랫폼
+
+### [2025_AI_HACKATHON_FE](https://github.com/fufckddl/2025_AI_HACKATHON_FE)
+
+[2025:AI 해커톤] AI 챗봇 기반 소아 ADHD 아동 일상·수면 관리 및 부모 지원 플랫폼
+
+`Dart`
+
+### [KoreanEmpathyModel](https://github.com/fufckddl/KoreanEmpathyModel)
+
+[2025:Model(AI)] 한국어(텍스트) 기반 공감 모델
+
+### [hackathon-pitches](https://github.com/fufckddl/hackathon-pitches)
+
+[2024:AI 해커톤] 감정인식 AI스피킹 코칭
 
 </div>
 
