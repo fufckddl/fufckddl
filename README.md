@@ -112,43 +112,36 @@
 
 <div align="left">
 
-### [GitCard](https://github.com/fufckddl/GitCard)
+<a href="https://github.com/fufckddl/GitCard" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/0/banner" alt="GitCard" />
+</a>
 
-[2025:Project] 쉽게 만드는 GitHub README
+<a href="https://github.com/fufckddl/SummarIQ.ai-FE" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/1/banner" alt="SummarIQ.ai-FE" />
+</a>
 
-`Python`
+<a href="https://github.com/fufckddl/HoseoLife" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/2/banner" alt="HoseoLife" />
+</a>
 
-### [SummarIQ.ai-FE](https://github.com/fufckddl/SummarIQ.ai-FE)
+<a href="https://github.com/fufckddl/2025_AI_HACKATHON_BE" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/3/banner" alt="2025_AI_HACKATHON_BE" />
+</a>
 
-AI 기반 사용자 회의 요약 및 분석 플랫폼
+<a href="https://github.com/fufckddl/2025_AI_HACKATHON_FE" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/4/banner" alt="2025_AI_HACKATHON_FE" />
+</a>
 
-`Python`
-
-### [HoseoLife](https://github.com/fufckddl/HoseoLife)
-
-[2025:Project] 호서대학교 커뮤니티
-
-`TypeScript`
-
-### [2025_AI_HACKATHON_BE](https://github.com/fufckddl/2025_AI_HACKATHON_BE)
-
-[2025:AI 해커톤] AI 챗봇 기반 소아 ADHD 아동 일상·수면 관리 및 부모 지원 플랫폼
-
-### [2025_AI_HACKATHON_FE](https://github.com/fufckddl/2025_AI_HACKATHON_FE)
-
-[2025:AI 해커톤] AI 챗봇 기반 소아 ADHD 아동 일상·수면 관리 및 부모 지원 플랫폼
-
-`Dart`
-
-### [KoreanEmpathyModel](https://github.com/fufckddl/KoreanEmpathyModel)
-
-[2025:Model(AI)] 한국어(텍스트) 기반 공감 모델
+<a href="https://github.com/fufckddl/KoreanEmpathyModel" target="_blank" rel="noopener noreferrer">
+  <img src="https://gitcard.kr/api/api/profiles/public/fufckddl/cards/11/repositories/5/banner" alt="KoreanEmpathyModel" />
+</a>
 
 </div>
 
 ## 🏅 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=fufckddl&show_icons=true&theme=default" alt="fufckddl stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fufckddl&layout=compact&theme=default" alt="Top Languages" />
 
